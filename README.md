@@ -2,6 +2,9 @@
 
 Programmeerlessen in Minecraft met redstone.
 
+ * [60 Facts about Minecraft Redstone!](https://youtu.be/cREZ3JnGTC0)
+
+
 Les|Omschrijving
 ---|-------------------
 .  |Machine met alleen redstone torch
